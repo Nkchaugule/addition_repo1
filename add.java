@@ -6,6 +6,6 @@ class add
 		
 		int c=a+b;
 		
-		System.out.println("Adiition of "+a+" & "+b" is "+c);
+		System.out.println("Adiition of "+a+" & "+b+" is "+c);
 	}
 }
